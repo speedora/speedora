@@ -23,4 +23,4 @@
 1. Clonez le repository :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/speedora.git
+   git clone https://github.com/speedora/speedora.git
